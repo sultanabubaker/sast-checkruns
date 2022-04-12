@@ -10,7 +10,7 @@
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
-    "iacCheckRunConclusionLevel": "success"
+    "iacCheckRunConclusionLevel": "success",
     "displayMode": "diff"
   },
   "issueSettings": {
